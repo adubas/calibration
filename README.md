@@ -30,4 +30,3 @@ Creating of the gen server `manage_sessions.ex` to handle api calls to create an
 Creating of the gen server `calibration_sessions_server.ex` to handle procedure of each session
 
 Since the implementation of the returning responses of the device was not created the test of the `Manage Sessions Server` and `Elixir Interview Starter` wasn't written. The test continued to TIMEOUT.
-# calibration
